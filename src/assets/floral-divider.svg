@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 24" fill="none" stroke="currentColor" stroke-width="0.8" stroke-linecap="round">
+  <!-- Left branch -->
+  <path d="M10 12 Q30 4 50 12 Q60 8 70 12" opacity="0.5"/>
+  <path d="M35 8 Q40 3 45 8" opacity="0.4"/>
+  <path d="M55 8 Q58 4 62 9" opacity="0.4"/>
+  <!-- Center ornament -->
+  <circle cx="100" cy="12" r="3" fill="currentColor" opacity="0.3" stroke="none"/>
+  <circle cx="100" cy="12" r="6" opacity="0.4"/>
+  <path d="M88 12 Q94 6 100 12 Q106 6 112 12" opacity="0.5"/>
+  <path d="M88 12 Q94 18 100 12 Q106 18 112 12" opacity="0.5"/>
+  <!-- Right branch (mirrored) -->
+  <path d="M130 12 Q140 8 150 12 Q170 4 190 12" opacity="0.5"/>
+  <path d="M138 9 Q142 4 145 8" opacity="0.4"/>
+  <path d="M155 8 Q160 3 165 8" opacity="0.4"/>
+  <!-- Horizontal lines -->
+  <line x1="16" y1="12" x2="82" y2="12" opacity="0.2"/>
+  <line x1="118" y1="12" x2="184" y2="12" opacity="0.2"/>
+</svg>

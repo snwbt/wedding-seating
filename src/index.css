@@ -1,0 +1,137 @@
+@import "tailwindcss";
+
+/*
+ * RETHEMEABLE DESIGN SYSTEM — "Sunset Warmth"
+ * Inspired by the Russell & Siaw Min Save the Date card:
+ * golden-hour amber, warm peach sky, muted mountain tones.
+ * ALL visual theming lives here. Components reference token names only.
+ */
+
+@theme {
+  /* ── Backgrounds ── */
+  --color-bg-primary: #fdf8f3;
+  --color-bg-secondary: #f7efe6;
+  --color-bg-card: #ffffff;
+  --color-bg-overlay: rgba(35, 25, 15, 0.55);
+
+  /* ── Text ── */
+  --color-text-primary: #2d2419;
+  --color-text-secondary: #5c4f3e;
+  --color-text-accent: #c4883a;
+  --color-text-muted: #9c8e7d;
+
+  /* ── Accent (sunset amber/copper) ── */
+  --color-accent: #c4883a;
+  --color-accent-light: #dbb07a;
+  --color-accent-muted: rgba(196, 136, 58, 0.12);
+  --color-accent-glow: rgba(196, 136, 58, 0.35);
+
+  /* ── Rose/blush (sunset peach) ── */
+  --color-rose: #d4a088;
+  --color-rose-light: #f0d5c8;
+  --color-blush: #faeee8;
+
+  /* ── Sage (mountain green from photo) ── */
+  --color-sage: #7a9465;
+  --color-sage-light: #d4e2c8;
+
+  /* ── Sky (muted blue from the top of the photo) ── */
+  --color-sky: #8ba5b8;
+  --color-sky-light: #d4e0ea;
+
+  /* ── Borders ── */
+  --color-border-default: #e8dfd4;
+  --color-border-subtle: #f0ebe3;
+  --color-border-accent: #c4883a;
+
+  /* ── Card surfaces ── */
+  --color-card-surface: #ffffff;
+  --color-card-border: #ede6dc;
+
+  /* ── Floorplan ── */
+  --color-table-surface: #f7efe6;
+  --color-table-border: #d9cfc3;
+  --color-seat-default: #c9bfb2;
+  --color-seat-highlight: #c4883a;
+  --color-floor-bg: #fcf9f5;
+
+  /* ── Typography ── */
+  --font-script: "Great Vibes", cursive;
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-accent: "Cormorant Garamond", Georgia, serif;
+
+  /* ── Border Radius ── */
+  --radius-card: 1rem;
+  --radius-button: 0.625rem;
+  --radius-badge: 9999px;
+
+  /* ── Shadows / Glows ── */
+  --shadow-soft: 0 2px 16px rgba(45, 36, 25, 0.06);
+  --shadow-card: 0 4px 24px rgba(45, 36, 25, 0.08);
+  --shadow-elevated: 0 8px 40px rgba(45, 36, 25, 0.12);
+  --shadow-glow: 0 0 24px rgba(196, 136, 58, 0.3);
+
+  /* ── Motion ── */
+  --ease-elegant: cubic-bezier(0.22, 1, 0.36, 1);
+  --duration-fast: 0.2s;
+  --duration-normal: 0.5s;
+  --duration-slow: 0.8s;
+}
+
+/* ── Base styles ── */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--color-text-primary);
+  background: var(--color-bg-primary);
+  min-height: 100dvh;
+}
+
+#root {
+  min-height: 100dvh;
+  background:
+    radial-gradient(ellipse at 50% 0%, rgba(196, 136, 58, 0.05) 0%, transparent 60%),
+    radial-gradient(ellipse at 50% 100%, rgba(212, 160, 136, 0.06) 0%, transparent 50%),
+    var(--color-bg-primary);
+}
+
+@keyframes shimmer {
+  0%, 100% { opacity: 0.7; }
+  50% { opacity: 1; }
+}
+
+@keyframes gentle-pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+::selection {
+  background: var(--color-accent-muted);
+  color: var(--color-text-primary);
+}
+
+/* ── Safe area insets for notched / Dynamic Island devices ── */
+@supports (padding: env(safe-area-inset-top)) {
+  .safe-top { padding-top: env(safe-area-inset-top); }
+  .safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
+  .safe-left { padding-left: env(safe-area-inset-left); }
+  .safe-right { padding-right: env(safe-area-inset-right); }
+  .safe-x {
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+}

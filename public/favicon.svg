@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Warm gold circle background -->
+  <circle cx="24" cy="24" r="24" fill="#c4883a"/>
+  <!-- Elegant R & S monogram -->
+  <text x="24" y="30" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="600" fill="#fdf8f3" letter-spacing="-0.5">R&S</text>
+  <!-- Decorative line below -->
+  <line x1="12" y1="35" x2="36" y2="35" stroke="#fdf8f3" stroke-width="0.8" opacity="0.6"/>
+</svg>

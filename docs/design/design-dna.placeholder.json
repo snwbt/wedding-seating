@@ -1,0 +1,32 @@
+{
+  "_note": "Extracted from Save the Date card. Update if new design references are provided.",
+  "direction": "sunset-warmth",
+  "palette": {
+    "background": "#fdf8f3",
+    "surface": "#ffffff",
+    "text": "#2d2419",
+    "textSecondary": "#5c4f3e",
+    "accent": "#c4883a",
+    "accentLight": "#dbb07a",
+    "rose": "#d4a088",
+    "sage": "#7a9465",
+    "sky": "#8ba5b8"
+  },
+  "typography": {
+    "script": "Great Vibes",
+    "display": "Playfair Display",
+    "body": "Inter",
+    "accent": "Cormorant Garamond"
+  },
+  "effects": {
+    "shadowStyle": "warm-soft",
+    "glowColor": "rgba(196, 136, 58, 0.3)",
+    "borderRadius": "1rem",
+    "motionEase": "cubic-bezier(0.22, 1, 0.36, 1)"
+  },
+  "motifs": {
+    "heroImage": "couple sunset walk",
+    "backgroundGradient": "warm-radial-amber",
+    "fallbackGradient": "170deg sky-amber-peach-copper-brown"
+  }
+}

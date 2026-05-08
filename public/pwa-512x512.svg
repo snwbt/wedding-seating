@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" fill="#c4883a"/>
+  <text x="256" y="280" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="192" font-weight="600" fill="#fdf8f3" letter-spacing="-5">R&amp;S</text>
+  <line x1="128" y1="330" x2="384" y2="330" stroke="#fdf8f3" stroke-width="3" opacity="0.5"/>
+  <text x="256" y="380" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#fdf8f3" opacity="0.7" letter-spacing="8">WEDDING</text>
+</svg>

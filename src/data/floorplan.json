@@ -1,0 +1,299 @@
+{
+  "viewBox": { "width": 1800, "height": 650 },
+  "tables": [
+    {
+      "id": "t1", "label": "1", "shape": "round",
+      "cx": 300, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t2", "label": "2", "shape": "round",
+      "cx": 460, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t3", "label": "3", "shape": "round",
+      "cx": 620, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t4", "label": "4", "shape": "round",
+      "cx": 780, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t5", "label": "5", "shape": "round",
+      "cx": 940, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t6", "label": "6", "shape": "round",
+      "cx": 1100, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t7", "label": "7", "shape": "round",
+      "cx": 1260, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t8", "label": "8", "shape": "round",
+      "cx": 1420, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t9", "label": "9", "shape": "round",
+      "cx": 1580, "cy": 175, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t10", "label": "10", "shape": "round",
+      "cx": 300, "cy": 490, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t11", "label": "11", "shape": "round",
+      "cx": 470, "cy": 490, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t12", "label": "12", "shape": "round",
+      "cx": 640, "cy": 490, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t13", "label": "13", "shape": "round",
+      "cx": 810, "cy": 490, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t14", "label": "14", "shape": "round",
+      "cx": 980, "cy": 490, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t15", "label": "15", "shape": "round",
+      "cx": 1150, "cy": 490, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t16", "label": "16", "shape": "round",
+      "cx": 1320, "cy": 490, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    },
+    {
+      "id": "t17", "label": "17", "shape": "round",
+      "cx": 1490, "cy": 490, "rx": 48,
+      "seats": [
+        { "seatNumber": 1, "angle": 0, "radius": 65 },
+        { "seatNumber": 2, "angle": 36, "radius": 65 },
+        { "seatNumber": 3, "angle": 72, "radius": 65 },
+        { "seatNumber": 4, "angle": 108, "radius": 65 },
+        { "seatNumber": 5, "angle": 144, "radius": 65 },
+        { "seatNumber": 6, "angle": 180, "radius": 65 },
+        { "seatNumber": 7, "angle": 216, "radius": 65 },
+        { "seatNumber": 8, "angle": 252, "radius": 65 },
+        { "seatNumber": 9, "angle": 288, "radius": 65 },
+        { "seatNumber": 10, "angle": 324, "radius": 65 }
+      ]
+    }
+  ],
+  "decorations": [
+    { "type": "stage", "label": "Screen", "cx": 420, "cy": 35, "width": 200, "height": 22 },
+    { "type": "stage", "label": "Screen", "cx": 860, "cy": 35, "width": 200, "height": 22 },
+    { "type": "stage", "label": "Screen", "cx": 1770, "cy": 335, "width": 22, "height": 160 },
+    { "type": "danceFloor", "label": "Rostrum", "cx": 110, "cy": 185, "width": 75, "height": 50 },
+    { "type": "bar", "label": "Wedding\nCake", "cx": 110, "cy": 310, "width": 75, "height": 65 },
+    { "type": "bar", "label": "Champagne\nFountain", "cx": 110, "cy": 430, "width": 75, "height": 55 }
+  ],
+  "walkway": {
+    "points": [],
+    "label": "Wedding aisle",
+    "path": "M 200,308 L 1620,308 A 72,72 0 0,1 1692,380 L 1692,592 L 1638,592 L 1638,380 A 18,18 0 0,0 1620,362 L 200,362 Z",
+    "labelPosition": { "x": 900, "y": 335 }
+  },
+  "entrance": {
+    "cx": 1665,
+    "cy": 618,
+    "width": 100,
+    "height": 28,
+    "label": "Entrance",
+    "helperText": "You are entering from here"
+  }
+}
